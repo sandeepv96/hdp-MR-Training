@@ -7,6 +7,6 @@ Feel free to clone and do whatever you want at your own risk, I started this rep
 
 I can offer no guarantee on the quality or functionality of this code.
 
-You acknowledge I can't be held responsible of any harm, error side-effects, or any type of loss happening to you and/or your business by direct or indirect result of the use of the code in this repository.
+You acknowledge I can't be held responsible of any harm, errors, side-effects, or any type of loss happening to you and/or your business by direct or indirect result of the use of the code in this repository.
 
 Have fun!
